@@ -126,9 +126,13 @@
             <p>By <hi>Samuel Peck,</hi> Minister there.</p>
             <p>
                <hi>LONDON:</hi> Printed for <hi>Tho. Parkhurst,</hi> at the <hi>Bible</hi> and <hi>Three-Crowns,</hi> at the lower end of <hi>Cheapside,</hi> near <hi>Mercers-Chappel.</hi> 1684.</p>
-            <figure>
-               <head>Academiae Cantabrigiensis Liber.</head>
-            </figure>
+            <p>
+
+               <pb facs="tcp:94543:2" rendition="simple:additions"/>
+               <figure>
+                  <head>Academiae Cantabrigiensis Liber.</head>
+               </figure>
+            </p>
          </div>
          <div type="dedication">
             <pb facs="tcp:94543:2"/>
